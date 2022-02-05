@@ -1,0 +1,11 @@
+extends: default
+footer:
+  padding: [0, 0, 0, 0]
+title-page:
+  align: center
+  title:
+    font-color: #000000
+    text-transform: uppercase
+    top: 25%
+  subtitle:
+    font-color: #999999
