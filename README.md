@@ -14,7 +14,7 @@ in plain text allows people to contribute to the book by raising merge
 requests in git, just as for other projects based on git.
 
 ## Building the book
-The book requires asciidoctor and additional modules such as `asciidoctor-epub3`
+The book requires `asciidoctor` and additional modules such as `asciidoctor-epub3`
 and `asciidoctor-pdf`. A docker image which contains everything required
 to build the book is available. The sources of the docker image are
 included in this repository. This book can be built on a linux system
